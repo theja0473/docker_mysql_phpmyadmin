@@ -11,4 +11,7 @@ Docker-compose is an useful utility for managing multi-container docker applicat
 
       - http://localhost:8081
 
+   * if you want to make docker containers down
+
+      - docker-compose down
 
