@@ -1,5 +1,5 @@
 # docker_mysql_phpmyadmin
-Docker-compose is an useful utility for managing multi-container docker applications. In our previous tutorial, I had discussed about the keep persistent data of MySQL docker containers using Docker volumes. Once you launched a MySQL container can be connect via terminal directly. But the phpMyAdmin lovers may need the web interface for managing databases.
+Docker-compose is an useful utility for managing multi-container docker applications. I had discussed about the keep persistent data of MySQL docker containers using Docker volumes. Once we launches a MySQL container can be connect via terminal directly. But the phpMyAdmin lovers may need the web interface for managing databases.
 
    * The following command to create Docker containers using the docker-compose.yml configuration file.
 
